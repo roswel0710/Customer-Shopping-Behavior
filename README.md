@@ -1,3 +1,4 @@
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/1dbb6970-1214-459d-8a94-631945177c22" />
 
 
 # Customer Shopping Behavior Analysis
